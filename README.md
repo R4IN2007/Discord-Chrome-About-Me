@@ -3,7 +3,7 @@ Custom Chrome about me copy &amp; paste
 
 ## Copy n Paste
 
-### Windows Chrome
+### Windows Chrome Tab & Page
 ```
 ``🔴🟢🟡  Chrome         — ❐ ⤬``
  ← → **⟳**   *ip2.network*
